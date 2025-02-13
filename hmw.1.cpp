@@ -7,6 +7,7 @@ def kwargsAcceptFun(**kwargs):
         print(f"{key}: {value}")
 
 kwargsAcceptFun(name="Alice", age=30, city="New York", occupation="Engineer")
+   // (xovvajon)
     
 //task.2
 def typeBasedTransformer(**kwargs):
@@ -37,6 +38,7 @@ result = typeBasedTransformer(
 )
 
 print(result)
+    //(ruxshona)
     
 //task.3
 import time
@@ -77,5 +79,6 @@ if name == "__main__":
     func()
     funx()
     func
+//(Madina)
 return 0;
 }
