@@ -7,6 +7,7 @@ def kwargsAcceptFun(**kwargs):
         print(f"{key}: {value}")
 
 kwargsAcceptFun(name="Alice", age=30, city="New York", occupation="Engineer")
+    
 //task.2
 def typeBasedTransformer(**kwargs):
     def transform_value(value):
@@ -36,6 +37,7 @@ result = typeBasedTransformer(
 )
 
 print(result)
+    
 //task.3
 import time
 
